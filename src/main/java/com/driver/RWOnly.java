@@ -2,6 +2,7 @@ package com.driver;
 
 public class RWOnly {
     private String name;
+    // getName ans setName is gettters and setters in java
 
     public String getName() {
         return name;
